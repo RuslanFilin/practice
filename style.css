@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(220, 189, 255);
+}
+#ifElse{
+    margin: 20px 10px;
+    line-height: 30px;
+}
+#cycles{
+    margin: 20px 10px;
+    line-height: 30px;       
+}
+#functionTask{
+    margin: 20px 10px;
+    line-height: 25px;
+}
+.picture{
+    display: flex;   
+    justify-content: space-between;
+    padding: 25px 25px;
+}
+#LineTask{
+    margin: 20px 30px;
+    line-height: 25px;
+}
+.line-form{
+    line-height: 0px;
+    padding-top: 25px;
+    margin: 0 39% ;
+}
+#local-storage{
+    margin: 20px 30px;
+}
+.red{
+    color: red;
+}
+.black{
+    color: black;
+}
+
+.thirdNone{
+    background-color: none;
+}
