@@ -18,25 +18,13 @@ body {
     justify-content: space-between;
     padding: 25px 25px;
 }
-#LineTask{
-    margin: 20px 30px;
-    line-height: 25px;
-}
-.line-form{
-    line-height: 0px;
-    padding-top: 25px;
-    margin: 0 39% ;
-}
-#local-storage{
-    margin: 20px 30px;
-}
 .red{
     color: red;
 }
 .black{
     color: black;
 }
-
-.thirdNone{
-    background-color: none;
+#secondDay{
+    margin: 20px 10px;
+    line-height: 15px;
 }
